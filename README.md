@@ -18,7 +18,7 @@ Estudos baseados na versão 8++ da linguagem PHP.
     </tr>
     <tr>
       <td>Estudo 02</td>
-      <td>colar link</td>
+      <td>https://github.com/Fillipis/php-8-more/blob/master/estudo-2-named-arguments/index.php</td>
     </tr>
     <tr>
       <td>Estudo 03</td>
