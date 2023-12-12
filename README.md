@@ -13,11 +13,11 @@ Estudos baseados na versão 8++ da linguagem PHP.
   </thead>
   <tbody>
     <tr>
-      <td>Contructor</td>
+      <td>PHP 8: Contructor</td>
       <td>https://github.com/Fillipis/php-8-more/blob/master/estudo-1-constructor/index.php</td>
     </tr>
     <tr>
-      <td>Estudo 02</td>
+      <td>PHP 8: Named Arguments</td>
       <td>https://github.com/Fillipis/php-8-more/blob/master/estudo-2-named-arguments/index.php</td>
     </tr>
     <tr>
