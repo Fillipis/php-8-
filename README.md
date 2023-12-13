@@ -21,12 +21,16 @@ Estudos baseados na versão 8++ da linguagem PHP.
       <td>https://github.com/Fillipis/php-8-more/blob/master/estudo-2-named-arguments/index.php</td>
     </tr>
     <tr>
-      <td>Estudo 03</td>
-      <td>colar link</td>
+      <td>PHP 8: Match</td>
+      <td>https://github.com/Fillipis/php-8-more/blob/master/estudo-3-match-switch/index.php</td>
     </tr>
     <tr>
-      <td>Estudo 04</td>
-      <td>colar link</td>
+      <td>PHP 8: Class Name</td>
+      <td>https://github.com/Fillipis/php-8-more/blob/master/estudo-4-name-class/index.php</td>
+    </tr>
+    <tr>
+      <td>PHP 8: Uniontypes</td>
+      <td>https://github.com/Fillipis/php-8-more/blob/master/estudo-5-uniontypes/index.php</td>
     </tr>
   </tbody>
 </table>
