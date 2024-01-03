@@ -32,5 +32,9 @@ Estudos baseados na versão 8++ da linguagem PHP.
       <td>PHP 8: Uniontypes</td>
       <td>https://github.com/Fillipis/php-8-more/blob/master/estudo-5-uniontypes/index.php</td>
     </tr>
+    <tr>
+      <td>PHP 8.1: Array</td>
+      <td>https://github.com/Fillipis/php-8-more/blob/master/estudo-6-array/index.php</td>
+    </tr>
   </tbody>
 </table>
