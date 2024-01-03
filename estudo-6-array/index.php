@@ -47,7 +47,7 @@ $years = array(
 
 // $result_merge = array_merge($people, $years);
 
-print_r($result_merge);
+// print_r($result_merge);
 
 /* :::output:::
     Array
