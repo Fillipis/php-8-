@@ -40,5 +40,9 @@ Estudos baseados na versão 8++ da linguagem PHP.
       <td>PHP 8.1: Array Is List</td>
       <td>https://github.com/Fillipis/php-8-more/blob/master/estudo-7-array_is_list/index.php</td>
     </tr>
+    <tr>
+      <td>PHP 8.2: Readonly Function</td>
+      <td>https://github.com/Fillipis/php-8-more/blob/master/estudo-8-readonly/index.php</td>
+    </tr>
   </tbody>
 </table>
