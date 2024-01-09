@@ -44,5 +44,13 @@ Estudos baseados na versão 8++ da linguagem PHP.
       <td>PHP 8.2: Readonly Function</td>
       <td>https://github.com/Fillipis/php-8-more/blob/master/estudo-8-readonly/index.php</td>
     </tr>
+    <tr>
+      <td>PHP 8.2: Trait</td>
+      <td>https://github.com/Fillipis/php-8-more/blob/master/estudo-9-trait/index.php</td>
+    </tr>
+    <tr>
+      <td>PHP 8.2: SensitiveParameter</td>
+      <td>https://github.com/Fillipis/php-8-more/blob/master/estudo-10-sensitive-parameter/index.php</td>
+    </tr>
   </tbody>
 </table>
